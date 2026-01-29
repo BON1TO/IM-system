@@ -10,7 +10,7 @@ Built as part of an engineering assignment to demonstrate full-stack development
 
 ## Live Demo
 
-Frontend: YOUR_VERCEL_URL  
+Frontend: https://im-system-shivanshs-projects-31a0a965.vercel.app
 Backend: https://im-system-6hdu.onrender.com
 
 ## Note
