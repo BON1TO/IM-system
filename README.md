@@ -67,14 +67,14 @@ First request may take ~30 seconds to wake up.
 git clone https://github.com/BON1TO/IM-system.git
 cd IM-system
 
-2. Backend Setup
+2. LOCAL Backend Setup
 cd server
 npm install
 node server.js
 Backend runs on:
 http://localhost:5000
 
-3. Frontend Setup
+3. LOCAL Frontend Setup
 Open new terminal:
 cd client
 npm install
@@ -82,7 +82,7 @@ npm run dev
 Frontend runs on:
 http://localhost:5173
 
-📤 CSV Export :
+📤 LOCAL CSV Export :
 You can download inventory CSV from:
 http://localhost:5000/api/export/csv
 
