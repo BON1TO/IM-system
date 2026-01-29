@@ -19,7 +19,8 @@ export default function Dashboard() {
         <h1>Inventory Dashboard</h1>
 
         <div className="topbar-actions">
-          <a href="http://localhost:5000/api/export/csv">
+          <a href="https://im-system-6hdu.onrender.com/api/export/csv">
+
             <button className="primary">Download CSV</button>
           </a>
 
