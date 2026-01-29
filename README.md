@@ -91,10 +91,11 @@ Built as part of an engineering assignment to demonstrate full-stack development
 
 ## 📂 Project Structure
 
+```
 IM-system/
 ├── client/ # React frontend
 └── server/ # Node + Express backend
-
+```
 ---
 
 ## ⚙️ Setup Instructions
@@ -102,8 +103,10 @@ IM-system/
 ### 1. Clone Repository
 
 ```bash
+
 git clone https://github.com/BON1TO/IM-system.git
 cd IM-system
+
 2. Backend Setup
 cd server
 npm install
