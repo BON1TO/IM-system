@@ -70,7 +70,7 @@ cd IM-system
 2. LOCAL Backend Setup
 cd server
 npm install
-node server.js
+npx nodemon server.js
 Backend runs on:
 http://localhost:5000
 
