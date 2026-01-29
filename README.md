@@ -8,6 +8,17 @@ Built as part of an engineering assignment to demonstrate full-stack development
 
 ---
 
+## Live Demo
+
+Frontend: https://im-system-shivanshs-projects-31a0a965.vercel.app 
+
+Backend: https://im-system-6hdu.onrender.com
+
+## Note
+
+Backend is hosted on Render free tier.  
+First request may take ~30 seconds to wake up.
+
 ##  Features
 
 ### Product Management (CRUD)
