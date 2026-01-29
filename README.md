@@ -25,32 +25,6 @@ Built as part of an engineering assignment to demonstrate full-stack development
   - 🟡 Low Stock
   - 🔴 Out of Stock
 
-### Dashboard Analytics
-
-- Total products
-- Total inventory value
-- Low stock count
-- Out of stock count
-- Low stock alerts section
-
-### Search, Filter, Sort
-
-- Search by product name or SKU
-- Filter by:
-  - All
-  - In Stock
-  - Low Stock
-  - Out of Stock
-- Sort by:
-  - Name
-  - Price
-  - Stock level
-
-### Bonus
-
-- CSV Export of inventory
-- Clean modern UI dashboard
-
 ---
 
 ## Screenshots
@@ -71,31 +45,6 @@ Built as part of an engineering assignment to demonstrate full-stack development
 
 ![Add Product](./screenshots/add-product.png)
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- React (Vite)
-- JavaScript
-- Custom CSS
-
-### Backend
-- Node.js
-- Express
-
-### Data Storage
-- In-memory array (no database)
-
----
-
-## 📂 Project Structure
-
-```
-IM-system/
-├── client/ # React frontend
-└── server/ # Node + Express backend
-```
 ---
 
 ## ⚙️ Setup Instructions
